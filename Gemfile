@@ -46,3 +46,4 @@ group :development do
 end
 
 gem 'bootstrap-sass'
+gem 'react-rails', '~> 1.0'
